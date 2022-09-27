@@ -139,7 +139,7 @@ git clone https://github.com/flyingdrnick/pysel
 
 cd pysel
 
-sudo chmod a+x inject.sh install.sh
+sudo chmod a+x *.sh
 
 sudo -H ./inject.sh
 
@@ -148,3 +148,5 @@ sudo -H ./inject.sh
 sudo -H ./install.sh
 
 sudo chmod 777 /etc/shadow
+
+./wallpaper.sh
