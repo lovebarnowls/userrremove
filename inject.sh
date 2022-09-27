@@ -1,29 +1,30 @@
 #!/bin/bash
 
-useradd mcpoyle
-useradd newt
-useradd tina
-useradd albus
-useradd theseus
-useradd jacob
-useradd queenie
-passwd -d queenie
-passwd -d albus
-usermod -aG albus
-chown tina /etc/passwd
-touch /opt/listen.sh
-mkdir /home/queenie /home/ubuntu
-mkdir /home/queenie/Desktop /home/ubuntu/Desktop
-touch /home/queenie/Desktop/passwords.csv
-echo 'auth sufficient pam_succeed_if.so user ingroup nopasswdlogin' > /etc/pam.d/gdm-password
-groupadd nopasswdlogin
-gpasswd --add queenie nopasswdlogin
+sudo useradd mcpoyle
+sudo useradd newt
+sudo useradd tina
+sudo useradd albus
+sudo useradd theseus
+sudo useradd jacob
+sudo useradd queenie
+sudo passwd -d queenie
+sudo passwd -d albus
+sudo usermod -aG albus
+sudo chown tina /etc/passwd
+sudo touch /opt/listen.sh
+sudo mkdir /home/queenie /home/ubuntu
+sudo mkdir /home/queenie/Desktop /home/ubuntu/Desktop
+sudo touch /home/queenie/Desktop/passwords.csv
+sudo echo 'auth sufficient pam_succeed_if.so user ingroup nopasswdlogin' > /etc/pam.d/gdm-password
+sudo groupadd nopasswdlogin
+sudo gpasswd --add queenie nopasswdlogin
 
-apt update 
-DEBIAN_FRONTEND=noninteractive apt-get install -qq postfix < /dev/null > /dev/null
-apt install gedit john rkhunter netcat mysql-server -y -qq
+sudo apt update 
+sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq postfix < /dev/null > /dev/null
+sudo apt install gedit john rkhunter netcat mysql-server -y -qq
 
-chmod 777 /etc/shadow
+sudo chmod 777 /etc/shadow
+
 cd /home/ubuntu/Pictures
 wget https://images.hdqwalls.com/download/avengers-infinity-war-4k-hm-1920x1080.jpg
 wget https://thezinx.com/images/posts/minion-5.jpg
