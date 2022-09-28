@@ -1,4 +1,5 @@
-The MD5 hash of the message file space-cadets.txt is
+kevin and stuart have decided to start a new group called banana
+Find out the identity of the third member in this group.
 
 ANSWER: <Type answer here>
 
