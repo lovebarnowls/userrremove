@@ -4,15 +4,16 @@ The person who was assigned this workstation (credence) had access to sensitive 
 
 Authorized administrators:
 
-	newt (Password: Abracadabra)
-	tina
+	stuart (Password: Abracadabra)
+	kevin
 
 Authorized users:
 
-	queenie
-	jacob
-	albus
-	theseus
+	gru
+	phil
+	bob
+	dave
+	phil
 
 This workstation is used for web browsing, e-mail and word processing only.  No multimedia files or other applications should be installed.
 
