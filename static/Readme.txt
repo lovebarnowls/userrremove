@@ -17,7 +17,8 @@ Authorized users:
 	phil
 	bob
 	dave
-	
+	norbert
+	mike
 
 This workstation is used for web browsing, e-mail and word processing only.  No multimedia files or other applications should be installed.
 
