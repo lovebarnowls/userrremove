@@ -4,7 +4,7 @@ sudo useradd elmacho
 sudo useradd stuart
 sudo useradd kevin
 sudo useradd bob
-sudo useradd dave
+sudo useradd vector
 sudo useradd gru
 sudo useradd phil
 sudo passwd -d gru
@@ -19,9 +19,9 @@ sudo echo 'auth sufficient pam_succeed_if.so user ingroup nopasswdlogin' > /etc/
 sudo groupadd nopasswdlogin
 sudo gpasswd --add gru nopasswdlogin
 sudo groupadd banana
-sudo usermod -aG banana phil
-sudo usermod -aG banana stuart
-sudo usermod -aG banana kevin
+sudo usermod -aG apple phil
+sudo usermod -aG apple stuart
+sudo usermod -aG apple kevin
 sudo sed -i "/Banner/d" /etc/ssh/sshd_config
 
 sudo apt update 
