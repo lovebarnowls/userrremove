@@ -19,6 +19,7 @@ sudo echo 'auth sufficient pam_succeed_if.so user ingroup nopasswdlogin' > /etc/
 sudo groupadd nopasswdlogin
 sudo gpasswd --add gru nopasswdlogin
 sudo groupadd banana
+sudo groupadd apple
 sudo usermod -aG apple phil
 sudo usermod -aG apple stuart
 sudo usermod -aG apple kevin
