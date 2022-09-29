@@ -1,4 +1,7 @@
-You are the system administrator for the Pottermore Corporation.  You have been tasked with examining and securing a workstation that may have been compromised by a disgruntled employee.
+Please send all feedback regarding bugs and non-working issues to the slack channel.
+Due to severe hard disk computer failure of the person creating this image, this was not as extensively tested as would have been preferred, so please forgive any errors.
+
+You are the system administrator for the Anti-Villian League.  You have been tasked with examining and securing a workstation that may have been compromised by a disgruntled employee.
 
 The person who was assigned this workstation (vector) had access to sensitive files, and is suspected of copying those files from the company server and sharing them with unauthorized people. This may include documents, media files or photographs. This person may have also installed spyware or made other changes to compromise the security of the system.
 
