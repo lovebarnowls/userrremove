@@ -25,6 +25,6 @@ sudo sed -i "$ a Banner Love me" /etc/ssh/sshd_config
 
 sudo apt update 
 sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq postfix < /dev/null > /dev/null
-sudo apt install gedit jack rkhunter netcat mysql-server -y -qq
+sudo apt install gedit hydra rkhunter netcat mysql-server -y -qq
 
 sudo chmod 777 /etc/shadow
