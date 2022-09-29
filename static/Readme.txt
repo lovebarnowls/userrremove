@@ -1,9 +1,10 @@
 You are the system administrator for the Pottermore Corporation.  You have been tasked with examining and securing a workstation that may have been compromised by a disgruntled employee.
 
-The person who was assigned this workstation (credence) had access to sensitive files, and is suspected of copying those files from the company server and sharing them with unauthorized people. This may include documents, media files or photographs. This person may have also installed spyware or made other changes to compromise the security of the system.
+The person who was assigned this workstation (vector) had access to sensitive files, and is suspected of copying those files from the company server and sharing them with unauthorized people. This may include documents, media files or photographs. This person may have also installed spyware or made other changes to compromise the security of the system.
 
 Authorized administrators:
 
+	ubuntu
 	stuart (Password: Abracadabra)
 	kevin
 
