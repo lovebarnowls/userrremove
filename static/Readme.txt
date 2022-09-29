@@ -5,7 +5,7 @@ The person who was assigned this workstation (vector) had access to sensitive fi
 Authorized administrators:
 
 	ubuntu
-	stuart (Password: Abracadabra)
+	stuart
 	kevin
 
 Authorized users:
