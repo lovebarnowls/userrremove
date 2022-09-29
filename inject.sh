@@ -6,7 +6,8 @@ sudo useradd kevin
 sudo useradd bob
 sudo useradd dave
 sudo useradd gru
-sudo passwd -d gru
+sudo useradd phil
+#sudo passwd -d gru
 sudo passwd -d bob
 sudo usermod -aG sudo bob
 sudo chown kevin /etc/passwd
@@ -21,10 +22,10 @@ sudo groupadd banana
 sudo usermod -aG banana phil
 sudo usermod -aG banana stuart
 sudo usermod -aG banana kevin
-sudo sed -i "$ a Banner Love me" /etc/ssh/sshd_config
+sudo sed -i "/Banner/d" /etc/ssh/sshd_config
 
 sudo apt update 
 sudo DEBIAN_FRONTEND=noninteractive apt-get install -qq postfix < /dev/null > /dev/null
-sudo apt install gedit hydra rkhunter netcat mysql-server -y -qq
+sudo apt install gedit john rkhunter netcat mysql-server -y -qq
 
 sudo chmod 777 /etc/shadow
