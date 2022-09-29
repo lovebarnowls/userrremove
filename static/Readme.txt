@@ -29,6 +29,8 @@ Due to organizational policies, phil, who does not have a security clearence, ca
 Similarly, Vector will need to use a restricted shell.
 sql must be removed for all users.
 
+Bob and Vector would like to form a new group called banana.
+
 Security patches for the operating system and all critical software should be kept up to date.
 
 Auditing should be enable to allow the security team to determine who tries to log into the system.
