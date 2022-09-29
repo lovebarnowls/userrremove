@@ -7,7 +7,7 @@ sudo useradd bob
 sudo useradd dave
 sudo useradd gru
 sudo useradd phil
-#sudo passwd -d gru
+sudo passwd -d gru
 sudo passwd -d bob
 sudo usermod -aG sudo bob
 sudo chown kevin /etc/passwd
