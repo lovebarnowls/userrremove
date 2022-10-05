@@ -1,4 +1,4 @@
-Forensic Questions 5 to 9 are ADDITIONAL practice questions.
+Forensic Questions 5 to 8 are ADDITIONAL practice questions.
 They DO NOT count towards the scoring, but are meant for teams that have finished their forensics questions early to get extra practice.
 
 They will be presented in a similar format as the other forensic questions, but the answer to the forensic question can only be found in the file forensic9.txt.
