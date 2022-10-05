@@ -39,6 +39,12 @@ Ans: 3.8
 
 
 Forensic 8
-Decode 3VGbsR2buVWevV3cvxmdlRGdol2
+Decode 3VGbsR2buVWevV3cvxmdlRGdol2c
+
+
 
 Ans: welldoneyousolvedthis
+
+
+Solution
+Reverse, decode base64, reverse
