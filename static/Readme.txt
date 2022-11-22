@@ -5,16 +5,61 @@ The person who was assigned this workstation has not done his job well, and need
 Authorized administrators:
 
 	ubuntu
-	stuart
-	kevin
+	theophilus
+	lysander
+	nicholas
 
 Authorized users:
 
-	gru
-	phil
-	bob
-	dave
-	norbert
-	mike
+	kyrie
+	ariadne
+	elliott
+	penelope
+	linus
+	althea
+	ophelia
+	atticus
+	theodore
+	atlas
+	iris
+	daphne
+	sebastian
+	cora
+	evangeline
+	tobias
+	chloe
+	phoebe
+	lyra
+	nico
+	thea
+	alexander
+	anastasia
+	elias
+	lucas
+	elena
+	athena
+	maya
+	orion
+	luke
+	phoenix
+	sophie
+	lydia
+	alexandra
+	persephone
+	cosmo
+	zephyr
+	calliope
+	margaret
+	sophia
+	amara
+	andrew
+	cynthia
+	apollo
+	agnes
+	george
+	peter
+	helena
+	catherine
 
-There is no forensic question for this practice image. Happy adding users.
+
+There is no forensic question for this practice image. Happy adding/removing users.
