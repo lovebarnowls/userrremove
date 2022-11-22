@@ -1,61 +1,14 @@
-grumpy
-sneezy
-sleepy
-doc
-dopey
-happy
-bashful
+Notes
 
-stark
-thor 
-pym
-banner
-rogers
-barton
-maximoff
+Fix these
 
-smurfette
-papa  
-clumsy 
-brainy 
-grouchy 
-hefty 
-greedy 
-jokey 
-chef 
-vanity 
 
-anakin
-luke
-leia 
-han 
-ben 
-qui-gon 
-obi-wan 
-windu
-dooku
-palpatine
-boba 
-jango 
-chewbacca
-yoda
 
-aladdin
-jasmine
-genie
-jafar
-iago
-abu
-carpet
-sultan
+Free score
 
-stuart
-kevin
-bob
-dave
-phil
-tim
-carl
-jorge
-scarlet
-gru
+user nicholas removed
+mysql disabled
+
+
+Bash script for useradd from text file
+for i in $(cat username.txt); do sudo useradd $i; echo "user $i added successfully!"; echo $i:$i"123" |chpasswd; echo "Password changed"; done
