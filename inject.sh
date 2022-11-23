@@ -7,6 +7,7 @@ sudo useradd elliott
 sudo useradd amenhotepiii
 sudo useradd kyrie
 sudo useradd ariadne
+sudo useradd nicholas
 sudo passwd -d kyrie
 sudo passwd -d elliott
 sudo usermod -aG sudo elliott
