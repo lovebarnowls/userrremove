@@ -6,8 +6,8 @@ Fix these
 
 Free score
 
-user nicholas removed
-mysql disabled
+user nicholas removed (actioned)
+mysql disabled (actioned)
 
 
 Bash script for useradd from text file
