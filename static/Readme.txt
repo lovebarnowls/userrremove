@@ -1,65 +1,42 @@
-You are the system administrator for the Greek Names League.  You have been tasked with examining and securing a workstation that may have been compromised by a disgruntled employee.
 
-The person who was assigned this workstation has not done his job well, and needs to add authorized users, authorized administrators, as well as remove unauthorized users.
+You are the system administrator for the league-of-popular-names-with-muslim-origin.  You have been tasked with examining and securing a workstation that may have been compromised by a disgruntled employee.
+
+The person who was assigned this workstation has not done his job well, and has intentionally added multiple unauthorized users and administrators. You will need to remove all unauthorized users, and possibly add authorized users and authorized administrators.
 
 Authorized administrators:
 
 	ubuntu
-	theophilus
-	lysander
-	nicholas
+	farhan
+	abdulrahman
+	laaibah
 
 Authorized users:
 
-	kyrie
-	ariadne
-	elliott
-	penelope
-	linus
-	althea
-	ophelia
-	atticus
-	theodore
-	atlas
-	iris
-	daphne
-	sebastian
-	cora
-	evangeline
-	tobias
-	chloe
-	phoebe
-	lyra
-	nico
-	thea
-	alexander
-	anastasia
-	elias
-	lucas
-	elena
-	athena
-	maya
-	orion
-	luke
-	phoenix
-	sophie
-	lydia
-	alexandra
-	persephone
-	cosmo
-	zephyr
-	calliope
-	margaret
-	sophia
-	amara
-	andrew
-	cynthia
-	apollo
-	agnes
-	george
-	peter
-	helena
-	catherine
+	adham
+	saad
+	adnan
+	naadir
+	dawid
+	babar
+	kamil
+	basel
+	karim
+	aftab
+	kasim
+	zafir
+	adiy
+	sadat
+	adil
+	sabbir
+	kaleema
+	kaysan
+	sabur
+	nadr
+	zahir
+	naim
+	basem
+	wafiq
+	zafar
 
 
 There is no forensic question for this practice image. Happy adding/removing users.
