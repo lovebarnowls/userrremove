@@ -45,6 +45,7 @@ sudo useradd nabeel
 sudo useradd nadim
 sudo useradd nadr
 sudo useradd naeem
+sudo useradd naim
 sudo passwd -d sadat
 sudo passwd -d naim
 sudo usermod -aG sudo naim
