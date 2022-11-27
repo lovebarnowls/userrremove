@@ -13,30 +13,29 @@ Authorized administrators:
 Authorized users:
 
 	adham
-	saad
-	adnan
-	naadir
+	adyan
+	aftaab
 	dawid
+	dawiah
 	babar
-	kamil
 	basel
-	karim
-	aftab
-	kasim
-	zafir
-	adiy
-	sadat
-	adil
-	sabbir
-	kaleema
-	kaysan
-	sabur
-	nadr
-	zahir
-	naim
-	basem
-	wafiq
 	zafar
+	zakar
+	sadat
+	sabir
+	sabur
+	kaleem
+	kaleema
+	kamal
+	kasim
+	kashan
+	kaysan
+	ghazawan
+	nadir
+	nadr
+	naeem
+	naim
+	wafiq
 
 
 There is no forensic question for this practice image. Happy adding/removing users.
