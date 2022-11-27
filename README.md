@@ -1,8 +1,6 @@
 
 ## Customisation for Cybertaipan
-```
-testing indicates "Ubuntu Linux Desktop with Web Interface" is a very good product to use. t3.small works smoothly
-will likely need cdk version 2 to make it easy to scale
+
 ```
 cd ~
 
@@ -10,11 +8,11 @@ if got clone doesn't work, require apt install.
 sudo -i
 apt-get update
 apt install git
-git clone https://github.com/lovebarnowls/userids.git
+git clone https://github.com/lovebarnowls/userremove.git
 continue with below instructions
 
 
-cd userids
+cd userremove
 
 sudo chmod a+x *.sh
 
