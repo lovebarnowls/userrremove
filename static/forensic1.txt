@@ -1,2 +1,3 @@
 This is a practice image for adding, removing, and modifying users.
+Most of the practice image will involve removing users.
 There is no forensics question for this image.
